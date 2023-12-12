@@ -1,0 +1,84 @@
+{
+    "nombre": "María",
+    "edad": 30,
+    "profesión": "diseñadora gráfica",
+    "hobbies": ["pintura", "escultura", "fotografía"],
+    "casado": true,
+    "hijos": 2,
+    "dirección": {
+        "calle": "Rúa Figueroa",
+        "numero": 13,
+        "ciudad": "Pontevedra",
+        "pais": "España"
+    },
+    "educación": [{
+            "título": "Licenciatura en Bellas Artes",
+            "institución": "Universidad de Barcelona",
+            "fechaInicio": "01/09/2010",
+            "fechaFin": "30/06/2014"
+        }, 
+        {
+            "título": "Máster en Diseño Gráfico",
+            "institución": "Universidad de Valencia",
+            "fechaInicio": "01/09/2014",
+            "fechaFin": "30/06/2016"
+        }
+    ],
+    "experienciaLaboral": [{
+            "empresa": {
+                "nombre": "Apple",
+                "sector": "Tecnología",
+                "empleados": 147000,
+                "sede": {
+                    "ciudad": "Cupertino",
+                    "estado": "California",
+                    "país": "Estados Unidos",
+                    "latitud": 37.334606,
+                    "longitud": -122.009102
+                },
+                "productos": ["iPhone", "iPad", "Mac", "Apple Watch", "AirPods"]
+            },
+            "cargo": "Diseñadora gráfica",
+            "fechaInicio": null,
+            "fechaFin": "01/07/2018",
+            "salario": 124000.4
+        }, 
+        {
+            "empresa": {
+                "nombre": "Google",
+                "sector": "Tecnología",
+                "empleados": 139995,
+                "sede": {
+                    "ciudad": "Mountain View",
+                    "estado": "California",
+                    "país": "Estados Unidos"
+                },
+                "productos": ["Google Search", "Google Maps", "YouTube", "Android", "Chrome"]
+            },
+            "cargo": "Diseñadora de interfaces",
+            "fechaInicio": "01/01/2020",
+            "fechaFin": "30/06/2021",
+            "salario": 95100.7
+        }, 
+        {
+            "empresa": {
+                "nombre": "Microsoft",
+                "sector": "Tecnología",
+                "empleados": 181000,
+                "sede": {
+                    "ciudad": "Redmond",
+                    "estado": "Washington",
+                    "país": "Estados Unidos",
+                    "latitud": 47.673988,
+                    "longitud": -122.121513
+                },
+                "productos": ["Windows", "Office", "Azure", "Surface", "Xbox"]
+            },
+            "cargo": "Diseñadora de interfaces",
+            "fechaInicio": "01/01/2015",
+            "fechaFin": "30/06/2016",
+            "salario": 110000.3
+        }
+    ],
+    "ingresosAnuales": [120000.0, 90000.5, 140000.6, 100000.7]
+}

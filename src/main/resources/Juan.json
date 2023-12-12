@@ -1,0 +1,67 @@
+{
+    "nombre": "Juan",
+    "edad": 25,
+    "profesión": "programador",
+    "hobbies": ["fútbol", "música", "lectura"],
+    "casado": false,
+    "hijos": 0,
+    "dirección": {
+        "calle": "Rúa Príncipe",
+        "numero": 17,
+        "ciudad": "Vigo",
+        "pais": "España"
+    },
+    "educación": [{
+            "título": "Ingeniería Informática",
+            "institución": "Universidad de Madrid",
+            "fechaInicio": "01/09/2015",
+            "fechaFin": "30/06/2019"
+        }, 
+        {
+            "título": "Máster en Inteligencia Artificial",
+            "institución": "Universidad de Barcelona",
+            "fechaInicio": "01/09/2019",
+            "fechaFin": "30/06/2021"
+        }
+    ],
+    "experienciaLaboral": [{
+            "empresa": {
+                "nombre": "Microsoft",
+                "sector": "Tecnología",
+                "empleados": 181000,
+                "sede": {
+                    "ciudad": "Redmond",
+                    "estado": "Washington",
+                    "país": "Estados Unidos",
+                    "latitud": 37.386051,
+                    "longitud": -122.083855
+                },
+                "productos": ["Windows", "Office", "Azure", "Surface", "Xbox"]
+            },
+            "cargo": "Desarrollador de software",
+            "fechaInicio": "01/07/2021",
+            "fechaFin": null,
+            "salario": 124000.2
+        }, 
+		{
+            "empresa": {
+                "nombre": "Telefónica",
+                "sector": "Telecomunicaciones",
+                "empleados": 102000,
+                "sede": {
+                    "ciudad": "Madrid",
+                    "estado": null,
+                    "país": "España",
+                    "latitud": 40.416729,
+                    "longitud": -3.703339
+                },
+                "productos": ["Telefonía móvil", "Telefonía fija", "Internet", "Televisión"]
+            },
+            "cargo": "Desarrollador de software",
+            "fechaInicio": "01/01/2018",
+            "fechaFin": "30/06/2019",
+            "salario": 82400.6
+        }
+    ],
+    "ingresosAnuales": [100000.2, 90000.3, 120000.4, 80000.5]
+}
